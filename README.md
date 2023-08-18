@@ -1,6 +1,32 @@
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48">    
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48">   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48">  
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redux.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" width="48"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="48">
+ 
+
 
 ![Hemsara's Stats](https://github-readme-stats.vercel.app/api?username=Hemsara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Hemsara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemsara&theme=tokyonight&hide_border=true)
