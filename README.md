@@ -7,7 +7,11 @@
 
 
 ![Hemsara's Stats](https://github-readme-stats.vercel.app/api?username=Hemsara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Hemsara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemsara&theme=tokyonight&hide_border=true)
+
+
+<a href="https://www.buymeacoffee.com/contactvehan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
