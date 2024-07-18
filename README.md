@@ -1,13 +1,34 @@
+<h3 align="left">Hello World!!</h3>
 
-# 💻 Tech Stack:
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="48">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prisma.svg" width="48"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/StyledComponents.svg" width="48"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" width="48">
- 
+###
 
+<img src="https://raw.githubusercontent.com/Hemsara/Hemsara/output/snake.svg" alt="Snake animation" />
 
-![Hemsara's Stats](https://github-readme-stats.vercel.app/api?username=Hemsara&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
+###
 
 <a href="https://www.buymeacoffee.com/contactvehan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
