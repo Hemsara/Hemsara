@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Hemsara/Hemsara/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
